@@ -1,7 +1,7 @@
 {
   "$schema": "./data_schema.json",
-  "JSON Version": "2.54.1",
-  "JSON Date": "2025-06-16",
+  "JSON Version": "2.54.2",
+  "JSON Date": "2025-06-18",
   "Contributers": [
     "ItsFloofy",
     "Daernaro",
@@ -61,6 +61,7 @@
     "Jafira-Dragon",
     "NoodleTheAvali",
     "LunaFree"
+    "Zero_assasin"
   ],
   "Bases": {
     "Kitavali": {
@@ -1969,6 +1970,15 @@
         "Weight": 1,
         "WingtipOffset": 2.7
       }
-    }
+    },"Apheli'Vali": {
+  "Original": {
+    "Name": "Apheli'Vali",
+    "Creator": "acomfypillow",
+    "Introducer": "Zero_assasin",
+    "Hash": ["1329801700v2"],
+    "Weight": 1,
+    "WingtipOffset": 4.1
+  }
+}
   }
 }
